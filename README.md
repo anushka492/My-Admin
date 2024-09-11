@@ -1,1 +1,1 @@
-# admin-pannel
+# admin-panel
